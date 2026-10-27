@@ -1,0 +1,5 @@
+D:/3E/AR/AR_2924014_SALMAN_FinalProject/.utmp/RelWithDebInfo/3s6bo3zy/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/3E/AR/AR_2924014_SALMAN_FinalProject/.utmp/RelWithDebInfo/3s6bo3zy/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/3E/AR/AR_2924014_SALMAN_FinalProject/.utmp/RelWithDebInfo/3s6bo3zy/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/3E/AR/AR_2924014_SALMAN_FinalProject/.utmp/RelWithDebInfo/3s6bo3zy/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/3E/AR/AR_2924014_SALMAN_FinalProject/.utmp/RelWithDebInfo/3s6bo3zy/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
